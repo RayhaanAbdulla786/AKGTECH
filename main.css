@@ -58,7 +58,7 @@ body{
 
 /* header */
 #header{
-    background: url(../images/laptops.jpg)top/cover no-repeat;
+    background: url(laptops.jpg)top/cover no-repeat;
     height: 1500px;
 }
 .carousel-inner h1{
@@ -124,7 +124,7 @@ body{
 
 /* offers */
 #offers{
-    background: url(../images/tech.jpg) center/cover no-repeat;
+    background: url(tech.jpg) center/cover no-repeat;
 }
 #offers .row{
     min-height: 60vh;
